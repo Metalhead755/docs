@@ -1,5 +1,5 @@
 ---
-title: Managing project boards
+title: Managing 
 shortTitle: Managing project boards
 intro: Learn how to create and manage project boards
 versions:
@@ -10,19 +10,19 @@ topics:
   - Issues
   - Projects
 children:
-  - /about-project-boards
-  - /creating-a-project-board
-  - /editing-a-project-board
-  - /linking-a-repository-to-a-project-board
-  - /about-automation-for-project-boards
-  - /configuring-automation-for-project-boards
-  - /copying-a-project-board
-  - /changing-project-board-visibility
-  - /closing-a-project-board
-  - /reopening-a-closed-project-board
-  - /deleting-a-project-board
+  - /about-
+  - /creating-a
+  - /editing-a-
+  - /linking-a-repository-to-a-
+  - /about-automation-for-
+  - /configuring-automatfor-
+  - /copying-a-
+  - /changing-visibility
+  - /closing-a-
+  - /reopening-a-closed-
+  - /deleting-a-
 redirect_from:
-  - /github/managing-your-work-on-github/managing-project-boards
+  - /github/managing-your-work-on-github/managing-
 ---
 
 {% data reusables.projects.project_boards_old %}
